@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This project was undertaken as part of the course ELEN4000A/4011A: Electrical Engineering Design II, one of the two 'capstone' courses in the BSc(Eng)  Honours Programme. The design project emphasizes the synthesis of knowledge acquired throughout the degree and vacational work to solve complex engineering problems and effectively communicate findings and their expected impacts socially, economically and evironmentally. 
+This project was undertaken as part of the course ELEN4000A/4011A: Electrical Engineering Design II, one of the two 'capstone' courses in the BSc(Eng)  Honours Programme. The design project emphasizes the synthesis of knowledge acquired throughout the degree and vacational work to solve complex engineering problems and effectively communicate findings and their expected impacts socially, economically and environmentally. 
 
 ### Choosing the Topic
 
-I specifically chose the topic "AI for All - Building an Online Platform to Eliminate Bias" due to my keen interest in the ethical dimensions of AI. 
+I specifically chose the topic "AI for All - Building an Online Platform to Eliminate Bias" due to my keen interest in the overlap of sofware engineering, cyber security, and the ethical dimensions of AI. 
 
 The ethical interest was further cultivated through an elective course I took ELEN4019: Ethics, Ideology, and the Social Sciences. This course equipped me with the conceptual tools to identify moral philisophical problems and address them systematically with arguments grounded in ethical theory. I have uploaded my Ethics essay from the course as reference. 
 
