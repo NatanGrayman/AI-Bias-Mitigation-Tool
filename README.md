@@ -8,7 +8,7 @@ This project was undertaken as part of the course ELEN4000A/4011A: Electrical En
 
 I specifically chose the topic "AI for All - Building an Online Platform to Eliminate Bias" due to my keen interest in the overlap of sofware engineering, cyber security, and the ethical dimensions of AI. 
 
-The ethical interest was further cultivated through an elective course I took ELEN4019: Ethics, Ideology, and the Social Sciences. This course equipped me with the conceptual tools to identify moral philisophical problems and address them systematically with arguments grounded in ethical theory. I have uploaded my Ethics essay from the course as reference. 
+The ethical interest was further cultivated through an elective course I took ELEN4019: Ethics, Ideology, and the Social Sciences. This course equipped me with the conceptual tools to identify moral philisophical problems and address them systematically with [arguments grounded in ethical theory] (https://medium.com/@natangrayman1/robotic-vacuums-and-the-deontological-and-teleological-ethical-frameworks-50f7ea867a8a).
 
 ### Project Achievement
 
